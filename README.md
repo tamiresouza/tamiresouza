@@ -1,5 +1,6 @@
 ### Olá, sou a Tamires
 
+- 👩🏽‍🏫 Sou professora de química, com experiência de 3 anos e Mestra em Educação
 - 👩🏽‍💻 Atualmente sou estagiária na Vivo-TBRA
-- 📊 Estudando análise de dados
-- 😄 Pronouns: Ela/Dela
+- 📘 Estudando Tecnologia da Informação na UNIVESP
+- 📊 Focada na área de dados
