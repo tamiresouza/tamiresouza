@@ -10,7 +10,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiresouza&show_icons=true&theme=dracula" width="400px" height="auto">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiresouza&show_icons=true&theme=dracula" width="200px" height="auto">
       </a>
     </td>
     <td>
